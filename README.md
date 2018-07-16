@@ -1,4 +1,4 @@
-# Android-Azure-SAS
+# Android Azure-SAS
 
 Simple and small library to handle Azure SAS (Shared Access Signature).
 
